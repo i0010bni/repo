@@ -1,0 +1,13 @@
+rem cd c:\Users\i0010\Documents\GitHub\repo
+rem git clone https://github.com/i0010bni/repo.git
+
+cd c:\Users\i0010\Documents\GitHub\repo\GitTutorial
+git status
+git add 2222.txt
+git commit -m "Add new!"
+git push
+
+git remote -v
+
+
+git pull
