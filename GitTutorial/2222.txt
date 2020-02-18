@@ -1,5 +1,0 @@
-cd c:\Users\i0010\Documents\GitHub\repo
-git clone https://github.com/i0010bni/repo.git
-git status
-git remote -v
-git pull
