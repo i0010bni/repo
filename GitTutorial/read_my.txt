@@ -4,6 +4,7 @@ rem git clone https://github.com/i0010bni/repo.git
 cd c:\Users\i0010\Documents\GitHub\repo\GitTutorial
 git status
 git add 2222.txt
+git add -A
 git commit -m "Add new!"
 git push
 
